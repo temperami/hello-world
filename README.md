@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Short description
+A longer description it's better.
